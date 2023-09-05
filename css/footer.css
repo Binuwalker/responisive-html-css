@@ -1,0 +1,22 @@
+.footer {
+  /* height: 400px; */
+  background-color: rgb(31 41 55);
+}
+
+@media screen and (max-width: 768px) {
+  .res-768px-dis-block {
+    display: block !important;
+  }
+  .res-768px-mt-3 {
+    margin-top: 30px !important;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .res-576px-dis-block {
+    display: block !important;
+  }
+  .res-576px-mt-3 {
+    margin-top: 30px !important;
+  }
+}
